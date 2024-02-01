@@ -1,7 +1,7 @@
 # COPIAS-VMware #
 ## Introducción ## 
 Para comenzar a realizar esta prueba primero, descargué y probé el funcionamiento de VMware para hacerlo un tanto familiar,
-seguidamente estuve buscando funciones únicas que pudieran a ayudarme a desarrollar el script.
+seguidamente estuve buscando funciones únicas que pudieran ayudarme a desarrollar el script.
 
 A continuación el script que he desarrollado
 ```conf
